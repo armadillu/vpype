@@ -278,7 +278,6 @@ y_range = [0, 7600]
 y_axis_up = true
 origin_location = ["12mm", "206mm"]
 final_pu_params = "10870,7600"
-set_ps = 4
 
 [[device.hp7550.paper]]
 name = "a3"
@@ -289,7 +288,6 @@ y_range = [0, 10870]
 y_axis_up = true
 origin_location = ["20mm", "285mm"]
 final_pu_params = "0,10870"
-set_ps = 0
 
 [[device.hp7550.paper]]
 name = "a"
@@ -301,7 +299,6 @@ y_range = [0, 7840]
 y_axis_up = true
 origin_location = ["12mm", "211mm"]
 final_pu_params = "10170,7840"
-set_ps = 4
 
 [[device.hp7550.paper]]
 name = "b"
@@ -313,7 +310,6 @@ y_range = [0, 10170]
 y_axis_up = true
 origin_location = ["20mm", "285mm"]
 final_pu_params = "0,10170"
-set_ps = 0
 
 
 [device.dxy]
